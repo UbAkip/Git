@@ -6,4 +6,5 @@ static IEnumerable<int> Fib(int x) // 0...x
 	int newfib = curfib+prefib;
 	prefib=curfib;
 	curfib=newfib;
+// изменения для Git
 }}
