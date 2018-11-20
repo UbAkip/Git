@@ -14,5 +14,13 @@ namespace ConsoleApp1
         {
             return x + x;
         }
+        public int minus(int x,int y)
+        {
+            return x - y;
+        }
+        public double div(int x, int y)
+        {
+            return x / y;
+        }
     }
 }

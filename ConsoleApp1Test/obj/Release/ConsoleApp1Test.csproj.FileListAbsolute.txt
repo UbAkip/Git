@@ -22,3 +22,7 @@ D:\TestC#\ChuDo\Git\ConsoleApp1Test\obj\Release\ConsoleApp1Test.csproj.CoreCompi
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\obj\Release\ConsoleApp1Test.csproj.CopyComplete
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\obj\Release\ConsoleApp1Test.dll
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\obj\Release\ConsoleApp1Test.pdb
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Google.Protobuf.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\MySql.Data.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Google.Protobuf.xml
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\MySql.Data.xml
