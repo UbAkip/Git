@@ -12,7 +12,7 @@ namespace ConsoleApp1Test
 
             int x = calc.doubleSum(6);
 
-            Assert.AreEqual(x, 6 * 6);
+            Assert.AreEqual(x, 6 + 6);
         }
     }
 }
