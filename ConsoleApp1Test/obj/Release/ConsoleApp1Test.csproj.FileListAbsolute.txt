@@ -26,3 +26,11 @@ D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Google.Protobuf.dll
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\MySql.Data.dll
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Google.Protobuf.xml
 D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\MySql.Data.xml
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Light.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Newtonsoft.Json.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\DevComponents.DotNetBar2.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Interop.WindowsInstaller.dll
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Light.pdb
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Light.dll.config
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Newtonsoft.Json.pdb
+D:\TestC#\ChuDo\Git\ConsoleApp1Test\bin\Release\Newtonsoft.Json.xml
