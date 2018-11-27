@@ -22,5 +22,10 @@ namespace ConsoleApp1
         {
             return x / y;
         }
+
+        public double averange(double x, double v)
+        {
+            return(x*v)/2;
+        }
     }
 }
